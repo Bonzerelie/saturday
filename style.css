@@ -176,3 +176,8 @@ p {
   margin-top: 10;
   margin-bottom: 18px;
 }
+
+#selected-scale-label,
+#scale-label {
+  margin-bottom: 10px;
+}
