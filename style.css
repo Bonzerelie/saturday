@@ -181,3 +181,7 @@ p {
 #scale-label {
   margin-bottom: 10px;
 }
+
+#octave-label {
+  margin-bottom: 10px; /* or more/less depending on desired space */
+}
